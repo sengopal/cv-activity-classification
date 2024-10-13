@@ -5,6 +5,7 @@
 * [Multi Action Video with Prediction Labels](https://youtu.be/2q4zOnSYKSA)
 
 ## Installation Details
+1. Use the conda env setup using `cv_proj.yml`
 2. `matplotlib=3.0.3` needs to be installed in the environment.
 
 ## Setup Details
