@@ -1,5 +1,17 @@
-# Activity Classification using MHI
+# Multi class activity classification in videos using Motion History Image generation
+### Introduction
+Human action recognition has been a topic of interest across multiple fields ranging from security to entertainment systems. Tracking the motion and identifying the action being performed on a real time basis is necessary for critical security systems. In entertainment, especially gaming, the need for immediate responses for actions and gestures are paramount for the success of that system. We show that Motion History image has been a well established framework to capture the temporal and activity information in multi dimensional detail enabling various usecases including classification. We utilize MHI to produce sample data to train a classifier and demonstrate its effectiveness for action classification across six different activities in a single multi-action video. We analyze the classifier performance and cases where MHI struggles to capture the true activity and discuss mechanisms and future work to overcome those limitations.
 
+### Citation
+If you find this project useful in your research or work, please consider citing it:
+```
+@article{gopal2024multiclass,
+  title={Multi class activity classification in videos using Motion History Image generation},
+  author={Gopal, Senthilkumar},
+  journal={arXiv preprint arXiv:tbd},
+  year={2024}
+}
+```
 ## Project Checklist 
 * `mhi.py` - Primary source file
 * [Multi Action Video with Prediction Labels](https://youtu.be/2q4zOnSYKSA)
