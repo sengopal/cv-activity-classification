@@ -1,19 +1,11 @@
 # Activity Classification using MHI
 
-### Student Details
-* Name: Senthilkumar Gopal
-* Email: sgopal36@gatech.edu
-* GT# 903280526
-
 ## Project Checklist 
 * `mhi.py` - Primary source file
-* *sgopal36_report.pdf* - Final Project Report
 * [Multi Action Video with Prediction Labels](https://youtu.be/2q4zOnSYKSA)
-* [Project Video Presentation](https://youtu.be/RpkmoBuCYYE)
 
 ## Installation Details
-1. This project works with the environment structure provided as the [Conda Env](https://gatech.instructure.com/courses/30873/files/folder/Project%20Files?preview=4473303)
-2. However, `matplotlib=3.0.3` needs to be installed in the environment as well.
+2. `matplotlib=3.0.3` needs to be installed in the environment.
 
 ## Setup Details
 1. All the dataset files are already added to the project folder. [Reference](http://www.nada.kth.se/cvap/actions/)
@@ -52,8 +44,6 @@ The expected runtime for *mhi.py*
 
 ### Other files and their usage
 1. `utility.py` - Utility functions for one of testing and generation
-2. `/presentation/MHI_Video_Presentation.pdf` - Slide deck used for the presentation video
-3. `/presentation/video_presentation.mp4` - Presentation video used for the project. Also available at [Project Video Presentation](https://youtu.be/RpkmoBuCYYE)
 
 ### Resources / Reference Links
 1. [Image_moment](https://en.wikipedia.org/wiki/Image_moment)
