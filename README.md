@@ -8,7 +8,7 @@ If you find this project useful in your research or work, please consider citing
 @article{gopal2024multiclass,
   title={Multi class activity classification in videos using Motion History Image generation},
   author={Gopal, Senthilkumar},
-  journal={arXiv preprint arXiv:tbd},
+  journal={arXiv preprint arXiv:2410.09902},
   year={2024}
 }
 ```
